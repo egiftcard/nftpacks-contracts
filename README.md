@@ -29,7 +29,7 @@ will yield an ERC 1155 NFT as a proof of participating in the givaway.
 Clone the project
 
 ```bash
-  git clone https://github.com/thirdweb-dev/nftpacks-contracts.git
+  git clone https://github.com/egiftcard/nftpacks-contracts.git
 ```
 
 Go to the project directory
@@ -61,4 +61,4 @@ npx hardhat run scripts/deployer/rinkeby.ts --network rinkeby
   
 ## Authors
 
-- [thirdweb](https://www.github.com/thirdweb-dev)
+- [thirdweb](https://www.github.com/egiftcard)
