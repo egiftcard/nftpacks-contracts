@@ -61,4 +61,4 @@ npx hardhat run scripts/deployer/rinkeby.ts --network rinkeby
   
 ## Authors
 
-- [thirdweb](https://www.github.com/egiftcard)
+- [egiftcard](https://www.github.com/egiftcard)
